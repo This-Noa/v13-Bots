@@ -1,2 +1,1 @@
-# v13-Bots
-Selamlar arkadaşlar ekip/public/priv sunucularında kullanabiliceğiniz güzel 0 hatalı botlarımı paylaşiyorum &lt;3
+Projeye +100 Stars 15 Forks Gelirse Çoğu Sunucuya Kurduğum Mod-Stat-İnvite-Guard-Database-Welcome Sistemlerimi Buraya Atıcağım
